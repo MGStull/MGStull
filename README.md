@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MGStull
 - 👀 I’m interested in ML based robotics and world modeling.
 - 🌱 I have a BS in Math and getting a MS in CS.
-- 💞️ I’m looking to collaborate on random topics I dont know.
 - 📫 How to reach me 657-345 0128
 
 <!---
